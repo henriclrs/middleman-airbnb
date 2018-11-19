@@ -1,0 +1,46 @@
+.header-flat{
+  background: white;
+  h1 {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  p {
+    font-weight: normal;
+    font-size: 14px;
+    color: #777777;
+  }
+  form {
+    margin: 20px 0;
+    margin-right: 0;
+    background: #F4F4F4;
+    padding: 15px;
+    border-radius: 3px;
+  }
+}
+
+#user-flat {
+  margin: 20px;
+  background: #F4F4F4;
+  h4{
+    margin-top:0;
+  }
+}
+
+.header-flat-owner{
+  padding: 20px;
+}
+
+.header-flat-details {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  padding-left: 0;
+}
+
+.flat-description{
+  color: #777777;
+}
+
+.banner-flat{
+  background-image: center;
+}
